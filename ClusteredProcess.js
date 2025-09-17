@@ -1,4 +1,4 @@
-// Takes approx 1.1 secs(which was 7 with single process)
+// Takes approx 1.1 secs(which was 7 with single process)  
 
 import cluster from "cluster";
 import os from "os";
