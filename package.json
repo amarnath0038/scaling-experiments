@@ -1,0 +1,25 @@
+{
+  "name": "scaling-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarnath0038/scaling-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/amarnath0038/scaling-experiments/issues"
+  },
+  "homepage": "https://github.com/amarnath0038/scaling-experiments#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^5.1.0"
+  }
+}
